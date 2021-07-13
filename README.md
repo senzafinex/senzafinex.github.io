@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to senzafinex
 
-You can use the [editor on GitHub](https://github.com/senzafinex/senzafinex.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sempre libera
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vivere ancora
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+About me
 
-# Header 1
-## Header 2
-### Header 3
+# Archives
+## Homepage
+### Tags
 
 - Bulleted
 - List
